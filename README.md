@@ -1,4 +1,4 @@
-# Vision-Transformer-based-Short-range-behavior-recognition-using-Radar-Signals
+# Vision Transformer based Short range behavior recognition using Radar Signals
 
 Code & data for paper Vision Transformer based Short-range behavior recognition using Radar Signals
 
